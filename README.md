@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Company's Employees Project is a React-based open-source project designed to showcase employee details and the posts they create. This project fetches data from an external API to populate employee information and their respective posts.
+The Company's Employees Project is a React-based open-source project designed with a focus on clean architecture, responsiveness, and minimal design using Material-UI (MUI). It aims to showcase employee details and the posts they create by fetching data from an external API.
 
 ## What is Company's Employees post Project?
 
