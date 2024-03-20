@@ -5,7 +5,7 @@ import UserPosts from './components/UserPost/UserPosts';
 
 const App = () => {
   return (
-    <Router>
+    <Router basename="/companys-employees-posts">
       <div style={{ display: 'flex' }}>
         <div style={{ flex: 1 }}>
           <Switch>
